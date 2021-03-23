@@ -16,6 +16,7 @@ class TrafficLight:
                 time.sleep(10)
 
 
+
 car = TrafficLight()
 car.running()
 print('-----')
